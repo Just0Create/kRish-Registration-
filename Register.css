@@ -1,0 +1,54 @@
+
+*
+{
+padding:6px;
+margin:7px;
+}
+#main
+{
+align:center;
+background:url("img/background.jpg");
+width:100%;
+radius: 5px;
+padding: 5px;
+margin: 5px;
+color: white;
+border-radius:10px;
+border: 1px solid #000000;
+box-shadow: #9B9B9B;
+}
+
+form#registration
+{
+margin:2cm;
+margin-left:2cm;
+margin-top:2cm;
+margin-bottom:2cm;
+margin-right:2cm;
+font-size:50px bold;
+}
+input#name
+{
+width:100%;
+height:20px:
+background-color:translucent;
+border: 1px solid #979797;
+border-radius:2px;
+box-shadow:inset;
+}
+button
+{
+width:50%;
+padding:7px;
+bgcolor:orange;
+color:#4C8AFF;
+margin:2cm;
+box-shadow:inset;
+}
+label
+{
+padding:2px;
+}
+
+
+
